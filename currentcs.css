@@ -1,0 +1,29 @@
+div {
+	text-align: center;
+}
+body {
+	background-color: green;
+	background-image: url("back.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	font-size: 23px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+input {
+	font-size: 18px;
+	border-left: 5px solid red;
+}
+button {
+	font-size: 20px;
+	margin-top: 20px;
+	background-color: #58dfcc;
+}
